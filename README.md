@@ -1,6 +1,6 @@
 Kilo. / Nikto / Kaleo ::
 - he , it , neos 🪖
-- minor!! lvl 16
+- minor!! lvl 17
 - taken qpr x1
 
  🐊
