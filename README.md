@@ -1,5 +1,5 @@
 use my skin names or call me Imre (ee-m-r-eh)
-- he ‎ ‎‎ ‎   it ‎ ‎  ‎ ‎ [check](https://pronouns.cc/@red.civiixz) ‎ ‎  ‎ ‎ ![pixel](https://i.postimg.cc/63JjHM7x/IMG-8241.gif)
+- he ‎ ‎‎ ‎   it ‎ ‎  ‎ ‎ [check](https://pronouns.cc/@twofaced) ‎ ‎  ‎ ‎ ![pixel](https://i.postimg.cc/63JjHM7x/IMG-8241.gif)
 - im a minor, age seventeen (03/10/2007) <- dd mm year
 - taken qpr x1
 
