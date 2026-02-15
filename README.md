@@ -40,5 +40,6 @@ $\color{#565656}{\textsf{i do not give out}}$ $\color{#EAAD91}{\textsf{my medica
 
 </details>
 
+<br>
 <div align="center">
-    <img src="https://i.postimg.cc/HWJzwRC2/IMG-0630.jpg" width="250" alt="prince of hearts"> ⠀⠀⠀⠀<img src="https://i.postimg.cc/gcDzKSq0/Untitled367-20260215193958.png" width="250" alt="prince of hearts">
+    <img src="https://i.postimg.cc/HWJzwRC2/IMG-0630.jpg" width="250" alt="prince of hearts"> ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://i.postimg.cc/gcDzKSq0/Untitled367-20260215193958.png" width="250" alt="prince of hearts">
