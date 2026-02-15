@@ -42,14 +42,4 @@ $\color{#565656}{\textsf{i do not give out}}$ $\color{#EAAD91}{\textsf{my medica
 
 <br>
 <div align="center">
-    <img src="https://i.postimg.cc/HWJzwRC2/IMG-0630.jpg" width="250" alt="tender gaze"> ⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://i.postimg.cc/gcDzKSq0/Untitled367-20260215193958.png" width="250" alt="fishbowl">
-
-<br>
-<br>
-<br>
-<br>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=x5lphy1w2vdsxuckyq9p99u0m&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=c57148&bar_color_cover=false">
-  </a>
-</p>
+    <img src="https://i.postimg.cc/HWJzwRC2/IMG-0630.jpg" width="250" alt="tender gaze"> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://i.postimg.cc/gcDzKSq0/Untitled367-20260215193958.png" width="250" alt="fishbowl">
