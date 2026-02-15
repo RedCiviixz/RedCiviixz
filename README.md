@@ -39,3 +39,6 @@ $\color{#565656}{\textsf{i am trilingual and am fluent in}}$ $\color{#EAAD91}{\t
 $\color{#565656}{\textsf{i do not give out}}$ $\color{#EAAD91}{\textsf{my medical information}}$ $\color{#565656}{\textsf{including}}$ $\color{#EAAD91}{\textsf{my diagnoses}}$ $\color{#565656}{\textsf{unless i know you (or you looked for them) .}}$ $\color{#565656}{\textsf{i do however have}}$ $\color{#EAAD91}{\textsf{chronic pain}}$ $\color{#565656}{\textsf{and}}$ $\color{#EAAD91}{\textsf{poor social skills}}$ $\color{#565656}{\textsf{. please be patient .}}$
 
 </details>
+
+<div align="center">
+    <img src="https://i.postimg.cc/HWJzwRC2/IMG-0630.jpg" width="250" align="left" alt="prince of hearts"> <img src="https://i.postimg.cc/gkVv4Pt9/IMG-0631.jpg" width="250" align="right" alt="prince of hearts">
