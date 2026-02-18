@@ -31,7 +31,8 @@ $\color{#565656}{\textsf{i prefer to only speak in}}$ $\color{#EAAD91}{\textsf{w
 $\color{#565656}{\textsf{altought i am}}$ $\color{#EAAD91}{\textsf{18}}$ $\color{#565656}{\textsf{, i prefer to stay in safe server 1 . please do not interact if you}}$ $\color{#EAAD91}{\textsf{are under 16}}$ $\color{#565656}{\textsf{beyond most minimals of interactions .}}$
 $\color{#EAAD91}{\textsf{!!}}$ $\color{#565656}{\textsf{i am}}$ $\color{#EAAD91}{\textsf{colourblind}}$ $\color{#565656}{\textsf{some of my skins}}$ $\color{#EAAD91}{\textsf{(especially cosplays)}}$ $\color{#565656}{\textsf{may look weird bcs of that .}}$ $\color{#EAAD91}{\textsf{sorry :(}}$
 
-$\color{#565656}{\textsf{i am mostly}}$ $\color{#EAAD91}{\textsf{offtab}}$ $\color{#565656}{\textsf{or}}$ $\color{#EAAD91}{\textsf{afk}}$ $\color{#565656}{\textsf{. but read messages sent from the area around me .}}$ $\color{#EAAD91}{\textsf{i block based on what i read}}$
+$\color{#565656}{\textsf{i am mostly}}$ $\color{#EAAD91}{\textsf{offtab}}$ $\color{#565656}{\textsf{or}}$ $\color{#EAAD91}{\textsf{afk}}$ $\color{#565656}{\textsf{. but read messages sent from the area around me .}}$ $\color{#EAAD91}{\textsf{i block based on what i read}}$ $\color{#565656}{\textsf{.}}$
+$\color{#EAAD91}{\textsf{ANTI PROSHIP}}$ $\color{#565656}{\textsf{my mate is a kin and so am i, we may wear skins of our kins and}}$ $\color{#EAAD91}{\textsf{cuddle and kiss}}$ $\color{#565656}{\textsf{on ponytown .}}$ $\color{#EAAD91}{\textsf{WE ARE NOT PROSHIP OF ANY KIND .}}$
 
 $\color{#565656}{\textsf{if you are blocked , it is usually because}}$ $\color{#EAAD91}{\textsf{you have a take i disagree with}}$ $\color{#565656}{\textsf{;}}$ $\color{#EAAD91}{\textsf{i find you too immature / do not want to int with you}}$ $\color{#565656}{\textsf{;}}$ $\color{#EAAD91}{\textsf{are sexualising characters}}$ $\color{#565656}{\textsf{; or i just don't like you .}}$
 
